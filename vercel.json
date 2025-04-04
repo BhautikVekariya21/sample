@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/clarity-ping.js": {
+        "schedule": "*/1 * * * *" 
+      }
+    }
+  }
+  
